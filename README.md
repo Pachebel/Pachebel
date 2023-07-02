@@ -1,11 +1,12 @@
-<h1 align="center">Opa,meu nome é João Victor.👋</h1>
+<h1 align="center">Opa, meu nome é João Victor.👋</h1>
+<h2 align="center">É um prazer ter você por aqui</h2>
 <h3 align="center">Um Desenvolvedor de software apaixonado por Flutter e UX Design</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pachebel](https://github.com/Pachebel)
 
 - 📫 How to reach me **joaovictorschramm@hotmail.com**
 
-- ⚡ Fun fact **Amo gastronomia,e adoro projetos DIY**
+- ⚡ Fun fact **Amo gastronomia e adoro projetos DIY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
