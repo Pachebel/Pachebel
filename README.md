@@ -1,13 +1,13 @@
-<h1 align="center">Opa, meu nome é João Victor.👋</h1>
-<h3 align="center">Sou um Desenvolvedor de software apaixonado por Flutter e UX Design.</h3>
+<h1 align="center">Hey there, my name is João Victor.👋</h1>
+<h3 align="center">I’m a Software Developer specialized in Flutter and passionate about UX Design.</h3>
 
-- 👨‍💻 Meus projetos estão disponíveis aqui: [https://github.com/Pachebel](https://github.com/Pachebel)
+- 👨‍💻 My projects are available here: [https://github.com/Pachebel](https://github.com/Pachebel)
 
-- 📫 Você pode entrar em contato comigo através do meu email: **joaovictorschramm@hotmail.com**
+- 📫 You can reach me via email: **joaovictorschramm@hotmail.com**
 
-- ⚡ Fun fact: **Amo gastronomia e adoro projetos DIY**
+- ⚡ Fun fact: **I love cooking and DIY projects**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pachebel/" target="_blank">
@@ -18,10 +18,8 @@
   </a>
 </p>
 
-
-<h3 align="left">Linguagens, frameworks e ferramentas:</h3>
+<h3 align="left">Languages, frameworks, and tools:</h3>
 <p align="left">
-  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
@@ -31,7 +29,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -39,6 +37,7 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
@@ -48,9 +47,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  </a>
-  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
   </a>
-  
 </p>
