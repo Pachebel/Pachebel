@@ -1,40 +1,49 @@
-<h1 align="center">Hey there, I'm João Victor! 👋</h1>
+# João Victor Schramm
 
-<h3 align="center">Senior Software Engineer | Flutter & Java Developer | Clean Architecture Enthusiast</h3>
+**Senior Software Engineer — Flutter & Dart**
+Balneário Camboriú, Brazil · Open to remote and relocation
 
-<p align="center">
-  I'm passionate about building scalable, high-performance applications, from crafting intuitive UI/UX with Flutter to engineering robust backend systems.
-</p>
+I build production mobile applications with Flutter, with a focus on architecture and runtime performance. Five years shipping mobile, ten years in tech. Most of my public code lives upstream rather than in personal repos — see below.
 
----
 
-### 👨‍💻 About Me
+## Flutter framework contribution
 
-- 🔭 Currently building full-stack applications leveraging **Clean Architecture**, **Riverpod**, and **Spring Boot**.
-- 🌱 Focusing on scalable system design and data-driven solutions.
-- 📫 Let's connect: **joaovictorschramm@hotmail.com**
-- ⚡ Fun fact: When I'm not coding, you can find me experimenting with high-fidelity audio engineering, optimizing PC hardware, or mastering culinary chemistry in the kitchen.
+**[flutter/flutter#155260](https://github.com/flutter/flutter/pull/155260)** — *fix: CupertinoDatePicker.DateAndTime using showDayOfWeek* · `framework` `f: cupertino`
 
----
+`CupertinoDatePicker` ignored the `showDayOfWeek: false` flag when running in `dateAndTime` mode — the weekday rendered regardless of what was passed in ([#153576](https://github.com/flutter/flutter/issues/153576)). I traced it through the date-formatting path and fixed the behavior so the parameter is respected in every mode.
 
-### 🛠️ Languages, Frameworks & Tools
-
-<p align="center">
-  <!-- A ferramenta skillicons gera uma grade perfeita e moderna com os ícones que você pediu -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,git,python,firebase,figma,postgres&theme=dark" alt="My Skills" />
-  </a>
-</p>
+Merged after 22 review comments and several rounds with the Flutter team.
 
 ---
 
-### 🤝 Connect with me
+## What I work with
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pachebel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@pachebel" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</p>
+**Mobile** — Flutter, Dart, Riverpod, BLoC, MobX, GetX, Modular
+**Architecture** — Clean Architecture, MVVM, SOLID, Repository Pattern
+**Performance** — Flutter DevTools profiling, memory management, dependency injection
+**Delivery** — GitHub Actions, Fastlane, CodeMagic, Firebase (Crashlytics, FCM, Analytics)
+**Backend** — Java, Spring Boot, RESTful APIs, PostgreSQL
+
+---
+
+## Selected results
+
+- Cut app cold start by **39.8%** (8.76s → 5.27s) and reduced RSS by **52 MB** by refactoring dependency injection
+- Led an **Ionic → Flutter** migration end to end; deployment speed improved ~70% through CI/CD work
+- Shipped a digital bank's loan module from architecture to production, coordinating across engineering, product and compliance
+
+---
+
+## Writing
+
+Case studies and product engineering notes — *published in Portuguese*.
+
+- [Redesigning search flow in a Flutter app](https://medium.com/@pachebel/transformando-a-experi%C3%AAncia-de-busca-minha-jornada-para-aprimorar-o-fluxo-de-pesquisa-dentro-de-um-428ea31848f6) — unifying fragmented categories into a single result set
+- [Running quantitative research on a live product](https://medium.com/@pachebel/pesquisa-quantitativa-em-progresso-dba05d1cb703)
+- [Why a company needs its own app: the Uliving case](https://medium.com/@pachebel/a-necessidade-em-ter-um-aplicativo-para-a-empresa-uma-an%C3%A1lise-do-desenvolvimento-na-uliving-c3f4e324bccf)
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/pachebel/) · joaovictorschramm@hotmail.com
