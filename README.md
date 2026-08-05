@@ -14,6 +14,12 @@ I build production mobile applications with Flutter, with a focus on architectur
 
 Merged after 22 review comments and several rounds with the Flutter team.
 
+## Ecosystem contributions
+
+**[Baseflow/flutter-permission-handler#1544](https://github.com/Baseflow/flutter-permission-handler/issues/1544)** — Swift Package Manager migration
+
+Diagnosed why `permission_handler_apple` reported as unsupported after Flutter's CocoaPods deprecation: under SPM, `Package.swift` resolves permissions from `Info.plist` keys, making the legacy `GCC_PREPROCESSOR_DEFINITIONS` macros in the Podfile obsolete and conflicting. Published a verified step-by-step migration path — the most-upvoted comment in the thread, confirmed as the working fix by other developers.
+
 ---
 
 ## What I work with
